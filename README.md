@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=🤖+Aadi+Pathak;AI+%26+Robotics+Enthusiast;LLM+Fine-Tuning+Engineer;National+Level+Cricketer+🏏" alt="Robotics Header"/>
+  <img src="https://svg-banners.vercel.app/api?type=neon&text1=Aadi%20Pathak&width=800&height=150" alt="Aadi Pathak"/>
 </p>
 
 
