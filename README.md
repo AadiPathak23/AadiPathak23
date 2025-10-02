@@ -16,7 +16,7 @@
 
 ### 🌟 About Me  
 - 🎓 Junior @ **Arizona State University** (B.S. in Computer Science, 2026)  
-- 🚀 Pursuing **MS in Robotics & Autonomous Systems (Fall 2026)**  
+- 🚀 Applying for **MS in Robotics & Autonomous Systems (Fall 2026)**  
 - 🤖 Passionate about **AI/ML, LLM Fine-Tuning, Generative AI, and Robotics**  
 - 📊 Side interest in **Finance & Quantitative Analysis**  
 - 🏏 **President of ASU Cricket Club** & **National-Level Cricketer**  
