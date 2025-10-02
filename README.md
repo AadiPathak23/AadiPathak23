@@ -24,11 +24,21 @@
 
 ---
 
-### 🔧 Tech Stack  
-**Languages:** C/C++, Java, Python, C#, HTML, CSS, JavaScript/TypeScript, MATLAB, SQL  
-**Frameworks & Tools:** FastAPI, ReactJS, Node.js, NextJS, .NET, Express, Flask, TensorFlow, PyTorch, scikit-learn, pandas  
-**Databases:** MongoDB, PostgreSQL  
-**Cloud/DevOps:** AWS, Docker, Vercel, Git/GitHub, Jira  
+### 🚀 Tech Stack  
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,html,css,js,ts,matlab,sql" />
+</p>
+<p align="center">
+  <!-- Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,dotnet,express,flask,fastapi,tensorflow,pytorch,sklearn,pandas" />
+</p>
+<p align="center">
+  <!-- Databases & DevOps -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,aws,docker,git,github,vercel,figma,jira" />
+</p>
+
 **Certifications:**  
 - IBM – Fundamentals of Generative AI (2024)  
 - DeepLearning.AI – Generative AI with Large Language Models  
