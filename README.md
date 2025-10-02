@@ -1,5 +1,13 @@
-<h1 align="center">Hey 👋, I'm Aadi Pathak</h1>
-<h3 align="center">AI/ML Enthusiast | LLM Fine-Tuning Engineer (in-progress) | National Level Cricketer 🏏</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=500&color=76B900&center=true&vCenter=true&width=600&lines=🤖+Hey%2C+I'm+Aadi+Pathak;AI%2FML+Engineer+in+the+Making;Robotics+%26+LLM+Fine-Tuning+Enthusiast;National+Level+Cricketer+🏏" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%2300C7B7.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Robotics-%2376B900.svg?&style=for-the-badge&logo=ROS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cricket-%23FF4500.svg?&style=for-the-badge&logo=cricket&logoColor=white"/>
+</p>
 
 ---
 
