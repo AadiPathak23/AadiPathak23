@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Aadi%20Pathak%20%7C%20AI%20%26%20Robotics%20Enthusiast-76B900?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" width="600"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Aadi%20Pathak&width=800&height=200" alt="Aadi Pathak" />
 </p>
+
 
 
 <!-- Typing Animation -->
