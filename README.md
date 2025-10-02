@@ -112,13 +112,18 @@
   <!-- All-time Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=AadiPathak23&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadiPathak23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="41%"/>
+  <!-- Top Languages (Jupyter Hidden) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadiPathak23&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" alt="Top Languages" width="41%"/>
 </p>
 
 <!-- Streaks -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AadiPathak23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadiPathak23&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
 
