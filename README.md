@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=40&duration=2500&pause=800&color=FF6F00&center=true&vCenter=true&width=800&lines=Aadi+Pathak" alt="Neon Orange Header"/>
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=⚡%20Aadi%20Pathak%20⚡&width=800&height=150" alt="Aadi Pathak Lightning Banner"/>
 </p>
 
 <!-- Typing Animation -->
