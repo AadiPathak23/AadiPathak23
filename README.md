@@ -1,8 +1,21 @@
+<!-- Futuristic Banner -->
 <p align="center">
-  <a href="https://github.com/AadiPathak23">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=650&lines=🤖+Hey%2C+I'm+Aadi+Pathak;AI%2FML+Engineer+in+the+Making;Robotics+%26+LLM+Fine-Tuning;National+Level+Cricketer+🏏" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=76B900&height=200&section=header&text=🤖%20Aadi%20Pathak%20%20|%20AI%20%26%20Robotics%20Enthusiast%20🏏&fontSize=35&fontAlignY=35&fontColor=ffffff" alt="Aadi Pathak header"/>
 </p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+Making;Robotics+%26+LLM+Fine-Tuning+Enthusiast;National+Level+Cricketer+🏏;Building+the+Future+with+Code+🤖" alt="Typing SVG"/>
+</p>
+
+<!-- Interest Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%2300C7B7.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Robotics-%2376B900.svg?&style=for-the-badge&logo=ROS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cricket-%23FF4500.svg?&style=for-the-badge&logoColor=white"/>
+</p>
+
 
 
 <p align="center">
