@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=⚡%20Aadi%20Pathak%20⚡&fontSize=40&fontColor=00BFFF&animation=fadeIn" alt="Aadi Pathak Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=⚡%20Aadi%20Pathak%20⚡&fontSize=42&fontColor=00BFFF&animation=twinkling&stroke=1E90FF&strokeWidth=2" alt="Aadi Pathak Banner"/>
 </p>
 
 
