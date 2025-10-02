@@ -1,12 +1,7 @@
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="800" height="120">
-    <rect width="800" height="120" fill="black"/>
-    <text x="50%" y="50%" text-anchor="middle" fill="#00BFFF" font-size="50" font-family="Orbitron" dy=".35em">
-      ⚡ Aadi Pathak ⚡
-      <animate attributeName="opacity" values="1;0.2;1;0.6;1;0.3;1" dur="3s" repeatCount="indefinite"/>
-    </text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=⚡%20Aadi%20Pathak%20⚡&fontSize=42&fontColor=00BFFF&animation=twinkling&stroke=1E90FF&strokeWidth=2" alt="Aadi Pathak Banner"/>
 </p>
+
 
 <!-- Typing Animation -->
 <p align="center">
