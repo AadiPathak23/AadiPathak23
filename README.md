@@ -19,7 +19,7 @@
 - 🚀 Pursuing **MS in Robotics & Autonomous Systems (Fall 2026)**  
 - 🤖 Passionate about **AI/ML, LLM Fine-Tuning, Generative AI, and Robotics**  
 - 📊 Side interest in **Finance & Quantitative Analysis**  
-- 🏏 **President of ASU Cricket Club** & former **National-Level Cricketer**  
+- 🏏 **President of ASU Cricket Club** & **National-Level Cricketer**  
 - ✨ Love building projects that merge **AI research with real-world applications**  
 
 ---
