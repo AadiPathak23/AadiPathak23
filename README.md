@@ -1,20 +1,52 @@
-<!-- Thor-Style Banner -->
+<!-- Thor Lightning Banner (self-contained SVG; no external files) -->
 <p align="center">
-  <svg fill="none" viewBox="0 0 800 150" width="800" height="150" xmlns="http://www.w3.org/2000/svg">
-    <rect width="800" height="150" fill="black"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-family="Orbitron, sans-serif" font-size="50" fill="url(#grad)"
-          stroke="#00BFFF" stroke-width="2">
-      ⚡ Aadi Pathak ⚡
-    </text>
+  <svg width="100%" height="170" viewBox="0 0 1000 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Aadi Pathak">
+    <rect width="1000" height="170" fill="#000000"/>
+
     <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#00BFFF; stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#1E90FF; stop-opacity:1" />
+      <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00BFFF"/>
+        <stop offset="100%" stop-color="#1E90FF"/>
       </linearGradient>
+
+      <filter id="softGlow">
+        <feGaussianBlur stdDeviation="3" result="b"/>
+        <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+      <filter id="strongGlow">
+        <feGaussianBlur stdDeviation="8" result="b2"/>
+        <feMerge><feMergeNode in="b2"/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
     </defs>
+
+    <!-- Lightning bolts -->
+    <g stroke="url(#blueGrad)" stroke-width="3" fill="none" filter="url(#softGlow)">
+      <polyline points="150,20 130,70 170,70 150,120 190,120" stroke-linejoin="round" stroke-linecap="round"
+                stroke-dasharray="10 14">
+        <animate attributeName="stroke-dashoffset" values="0;-220" dur="1.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0.55;1" dur="0.85s" repeatCount="indefinite"/>
+      </polyline>
+      <polyline points="850,20 870,70 830,70 850,120 810,120" stroke-linejoin="round" stroke-linecap="round"
+                stroke-dasharray="10 14">
+        <animate attributeName="stroke-dashoffset" values="0;-220" dur="1.1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0.6;1" dur="0.75s" repeatCount="indefinite"/>
+      </polyline>
+    </g>
+
+    <!-- Name with neon blue glow -->
+    <text x="50%" y="56%" text-anchor="middle" font-family="Orbitron, sans-serif" font-size="58"
+          fill="url(#blueGrad)" opacity="0.85" filter="url(#strongGlow)">Aadi Pathak</text>
+    <text x="50%" y="56%" text-anchor="middle" font-family="Orbitron, sans-serif" font-size="58"
+          fill="url(#blueGrad)" stroke="#9ad7ff" stroke-width="1.5" filter="url(#softGlow)">Aadi Pathak</text>
+    <!-- subtle flicker -->
+    <text x="50%" y="56%" text-anchor="middle" font-family="Orbitron, sans-serif" font-size="58"
+          fill="url(#blueGrad)" opacity="0.8">
+      Aadi Pathak
+      <animate attributeName="opacity" values="0.8;0.55;0.9;0.7;0.85" dur="2s" repeatCount="indefinite"/>
+    </text>
   </svg>
 </p>
+
 
 <!-- Typing Animation -->
 <p align="center">
