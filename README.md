@@ -110,7 +110,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AadiPathak23&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadiPathak23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="41%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AadiPathak23&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&t=1" />
+
 </p>
 
 <p align="center">
