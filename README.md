@@ -1,5 +1,19 @@
+<!-- Thor-Style Banner -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=⚡%20Aadi%20Pathak%20⚡&width=800&height=150" alt="Aadi Pathak Lightning Banner"/>
+  <svg fill="none" viewBox="0 0 800 150" width="800" height="150" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="150" fill="black"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Orbitron, sans-serif" font-size="50" fill="url(#grad)"
+          stroke="#00BFFF" stroke-width="2">
+      ⚡ Aadi Pathak ⚡
+    </text>
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00BFFF; stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#1E90FF; stop-opacity:1" />
+      </linearGradient>
+    </defs>
+  </svg>
 </p>
 
 <!-- Typing Animation -->
