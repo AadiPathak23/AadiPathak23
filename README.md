@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AadiPathak23">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=650&lines=🤖+Hey%2C+I'm+Aadi+Pathak;AI%2FML+Engineer+in+the+Making;Robotics+%26+LLM+Fine-Tuning+Enthusiast;National+Level+Cricketer+🏏" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=650&lines=🤖+Hey%2C+I'm+Aadi+Pathak;AI%2FML+Engineer+in+the+Making;Robotics+%26+LLM+Fine-Tuning;National+Level+Cricketer+🏏" alt="Typing SVG" />
   </a>
 </p>
 
