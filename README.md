@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=⚡%20Aadi%20Pathak%20⚡&fontSize=42&fontColor=00BFFF&animation=twinkling&stroke=1E90FF&strokeWidth=2" alt="Aadi Pathak Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&pause=500&color=00BFFF&center=true&vCenter=true&repeat=false&width=800&lines=⚡+Aadi+Pathak+⚡" alt="Aadi Pathak Neon Flicker"/>
 </p>
-
 
 <!-- Typing Animation -->
 <p align="center">
