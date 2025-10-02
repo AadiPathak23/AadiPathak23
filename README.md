@@ -16,15 +16,6 @@
   <img src="https://img.shields.io/badge/Cricket-%23FF4500.svg?&style=for-the-badge&logoColor=white"/>
 </p>
 
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%2300C7B7.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Robotics-%2376B900.svg?&style=for-the-badge&logo=ROS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cricket-%23FF4500.svg?&style=for-the-badge&logo=cricket&logoColor=white"/>
-</p>
-
 ---
 
 ### 🌟 About Me  
