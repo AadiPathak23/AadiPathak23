@@ -64,9 +64,10 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="50" title="Git"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/></a>
   <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="50" title="Vercel"/></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://skillicons.dev/icons?i=jira" width="50" title="Jira"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="35" title="Jira"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="50" title="Figma"/></a>
 </p>  
+
 
 
 **Certifications:**  
