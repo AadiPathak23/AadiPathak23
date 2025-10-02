@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=500&color=76B900&center=true&vCenter=true&width=600&lines=🤖+Hey%2C+I'm+Aadi+Pathak;AI%2FML+Engineer+in+the+Making;Robotics+%26+LLM+Fine-Tuning+Enthusiast;National+Level+Cricketer+🏏" alt="Typing SVG"/>
+  <a href="https://github.com/AadiPathak23">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=650&lines=🤖+Hey%2C+I'm+Aadi+Pathak;AI%2FML+Engineer+in+the+Making;Robotics+%26+LLM+Fine-Tuning+Enthusiast;National+Level+Cricketer+🏏" alt="Typing SVG" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-%2300C7B7.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
