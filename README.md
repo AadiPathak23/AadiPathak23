@@ -1,12 +1,11 @@
 <!-- Futuristic Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=76B900&height=200&section=header&text=🤖%20Aadi%20Pathak%20%7C%20AI%20%26%20Robotics%20Enthusiast%20🏏&fontSize=35&fontAlignY=35&fontColor=ffffff" alt="Aadi Pathak header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=76B900&height=200&section=header&text=Aadi%20Pathak%20%7C%20AI%20%26%20Robotics%20Enthusiast&fontSize=35&fontAlignY=35&fontColor=ffffff" alt="Aadi Pathak header"/>
 </p>
-
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+Making;Robotics+%26+LLM+Fine-Tuning+Enthusiast;National+Level+Cricketer+🏏;Building+the+Future+with+Code+🤖" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+Making;Robotics+%26+LLM+Fine-Tuning+Enthusiast;National+Level+Cricketer+🏏;Building+the+Future+with+Code+🤖" alt="Typing SVG"/>
 </p>
 
 <!-- Interest Badges -->
