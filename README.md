@@ -1,7 +1,8 @@
 <!-- Futuristic Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=76B900&height=200&section=header&text=🤖%20Aadi%20Pathak%20%20|%20AI%20%26%20Robotics%20Enthusiast%20🏏&fontSize=35&fontAlignY=35&fontColor=ffffff" alt="Aadi Pathak header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=76B900&height=200&section=header&text=🤖%20Aadi%20Pathak%20%7C%20AI%20%26%20Robotics%20Enthusiast%20🏏&fontSize=35&fontAlignY=35&fontColor=ffffff" alt="Aadi Pathak header"/>
 </p>
+
 
 <!-- Typing Animation -->
 <p align="center">
