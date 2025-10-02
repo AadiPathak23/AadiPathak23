@@ -26,18 +26,48 @@
 
 ### 🚀 Tech Stack  
 
+#### 🖥️ Languages  
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,html,css,js,ts,matlab,sql" />
-</p>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="50" title="Python"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="50" title="C++"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="50" title="Java"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" width="50" title="C#"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="50" title="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="50" title="CSS3"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="50" title="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="50" title="TypeScript"/></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://skillicons.dev/icons?i=matlab" width="50" title="MATLAB"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="50" title="SQL"/></a>
+</p>  
+
+#### ⚡ Frameworks & Libraries  
 <p align="center">
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,dotnet,express,flask,fastapi,tensorflow,pytorch,sklearn,pandas" />
-</p>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="50" title="ReactJS"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="50" title="Next.js"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" width="50" title=".NET"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="50" title="ExpressJS"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="50" title="Flask"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="50" title="FastAPI"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="50" title="PyTorch"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="50" title="TensorFlow"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=scikitlearn" width="50" title="Scikit-learn"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" width="50" title="pandas"/></a>
+</p>  
+
+#### 🛠️ Tools, DevOps & Design  
 <p align="center">
-  <!-- Databases & DevOps -->
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,aws,docker,git,github,vercel,figma,jira" />
-</p>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="50" title="AWS"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="50" title="Docker"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="50" title="MongoDB"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" width="50" title="PostgreSQL"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="50" title="Git"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="50" title="Vercel"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://skillicons.dev/icons?i=jira" width="50" title="Jira"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="50" title="Figma"/></a>
+</p>  
+
 
 **Certifications:**  
 - IBM – Fundamentals of Generative AI (2024)  
