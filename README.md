@@ -121,10 +121,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AadiPathak23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadiPathak23&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</p>
 
 
 ---
