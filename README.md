@@ -104,7 +104,7 @@
 - Notes, architecture docs, and experiments from Qwen3 + LoRA work  
 
 #### 🧠 **Supermemory AI Hackathon Project**  
-🔗 *[Add repo link here if public]*  
+🔗 https://github.com/AadiPathak23/Asclepius-HI  
 - Winner of **Best Use Case** category  
 - Built GenAI memory-powered prototype for long-context applications  
 
