@@ -18,8 +18,8 @@
 ---
 
 ### 🌟 About Me 
-- 🎓 Junior @ **Arizona State University** (B.S. Computer Science, 2026)  
-- 🚀 Applying for **MS in Robotics & Autonomous Systems (Fall 2026)**  
+- 🎓 Senior @ **Arizona State University** (B.S. Computer Science, 2026)  
+- 🚀 Applying for **MS CS in Artificial Intelligence & Machine Learning (Fall 2026)**  
 - 🤖 Focused on **LLM Fine-Tuning, GenAI Systems, and Applied Machine Learning**  
 - 🧠 Worked with **Qwen3 LLM**, LoRA, HuggingFace, CUDA, and GPU memory optimization  
 - 🏆 **Winner — Startup Village Hackathon (Best Use Case of Supermemory AI)**  
