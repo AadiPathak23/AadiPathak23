@@ -2,115 +2,121 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=⚡%20Aadi%20Pathak%20⚡&fontSize=42&fontColor=00BFFF&animation=twinkling&stroke=1E90FF&strokeWidth=2" alt="Aadi Pathak Banner"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+Making;Robotics+%26+LLM+Fine-Tuning+Enthusiast;National+Level+Cricketer+🏏;Building+the+Future+with+Code+🤖" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+the+Making;GenAI+%26+LLM+Systems+Builder;Robotics+%26+Applied+ML+Enthusiast;National-Level+Cricketer+🏏" alt="Typing SVG"/>
 </p>
 
-<!-- Interest Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-%2300C7B7.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-%23FF6F00.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Robotics-%2376B900.svg?&style=for-the-badge&logo=ROS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cricket-%23FF4500.svg?&style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
 
-### 🌟 About Me 
-- 🎓 Senior @ **Arizona State University** (B.S. Computer Science, 2026)  
-- 🚀 Applying for **MS CS in Artificial Intelligence & Machine Learning (Fall 2026)**  
-- 🤖 Focused on **LLM Fine-Tuning, GenAI Systems, and Applied Machine Learning**  
-- 🧠 Worked with **Qwen3 LLM**, LoRA, HuggingFace, CUDA, and GPU memory optimization  
-- 🏆 **Winner — Startup Village Hackathon (Best Use Case of Supermemory AI)**  
-- 🏏 **President of ASU Cricket Club** & **National-Level Cricketer**  
-- ✨ I love building **AI that solves real-world problems**, not just cool demos  
+## 👋 About Me
+
+- 🎓 **Senior @ Arizona State University** — B.S. Computer Science (2026)  
+- 🚀 Applying for **MS in Computer Science (AI/ML focus) — Fall 2026**  
+- 🤖 Strong focus on **LLMs, GenAI systems, RAG architectures, and applied ML**  
+- 🧠 Hands-on experience with **Qwen3 LLM, LoRA fine-tuning, HuggingFace, CUDA, GPU optimization**  
+- 🏆 **Startup Village Hackathon Winner** — Best Use Case of Supermemory AI  
+- 🏏 **President, ASU Cricket Club** & **National-Level Cricketer**  
+- ✨ I build **AI systems that scale and ship**, not just demos  
 
 ---
 
-### 🚀 Tech Stack  
+## 🚀 Featured Flagship Project
 
-#### 🖥️ Languages  
+### 🔍 **Atlas RAG — Multimodal RAG System for PDFs & Code**
+🔗 **Repo:** https://github.com/AadiPathak23/Atlas-RAG  
+
+**Production-style RAG system designed for real codebases, not toy demos.**
+
+**Why it matters:**  
+Most RAG demos fail on real repositories because semantic search alone misses exact identifiers and configs. Atlas RAG fixes this using **hybrid retrieval + local-first LLMs**.
+
+**Key highlights:**
+- 📄 PDF + 💻 Code ingestion with **page & line-level citations**
+- 🔀 **Hybrid retrieval (Semantic + TF-IDF)** for exact symbol matching
+- 🦙 **Local LLM via Ollama** (zero-cost, no API dependency)
+- 💾 Persistent **ChromaDB vector store**
+- 🔄 Incremental indexing with hash-based change detection
+- 🧪 Developer debug tools to inspect retrieval scores
+
+> This project mirrors how **real-world GenAI systems** are architected.
+
+---
+
+## 🧠 Tech Stack
+
+### 🖥️ Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,html,css,js,ts,matlab,mysql" width="500"/>
-</p>  
+</p>
 
-#### ⚡ Frameworks & Libraries  
+### ⚡ Frameworks & Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,dotnet,express,flask,fastapi,pytorch,tensorflow,scikitlearn,pandas" width="600"/>
-</p>  
+</p>
 
-#### 🛠️ Tools, DevOps & Design  
+### 🛠️ Tools, DevOps & Design
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,mongodb,postgresql,git,github,vercel,figma" width="520"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" title="Jira"/>
-</p>  
+</p>
 
-**AI/ML & GPU Skillset:**  
-- NVIDIA-SMI, CUDA, HuggingFace Transformers  
-- LoRA fine-tuning  
-- Chunking/token-priority pipelines  
-- ROUGE/BERTScore evaluation  
-- ANTLR parsing  
-- Dataset creation & optimization  
-
-**Certifications:**  
-- IBM – Fundamentals of Generative AI  
-- DeepLearning.AI – Generative AI with LLMs  
-- DeepLearning.AI – Neural Networks & Deep Learning  
+**AI / ML & Systems Expertise**
+- LLM fine-tuning (LoRA, Qwen, Transformers)
+- Token-aware chunking & priority pipelines
+- RAG system design (retrieval, grounding, evaluation)
+- CUDA, NVIDIA-SMI, GPU memory optimization
+- Dataset creation & benchmarking
+- ANTLR-based parsing pipelines
 
 ---
 
-### 💼 Experience  
+## 💼 Experience
 
-#### **AI/ML Intern — Persistent Systems, Santa Clara (May–Sep 2025)**  
-- Fine-tuned **Qwen3 LLM** for repo-aware bug detection & test-case generation  
-- Built **COBOL-to-Documentation** pipeline using ANTLR (90% manual effort reduced)  
-- Designed **token-prioritization & chunking pipeline** for large repos  
-- Trained + evaluated models using **CUDA, NVIDIA-SMI, HF Transformers**  
+### **AI/ML Intern — Persistent Systems, Santa Clara (May–Sep 2025)**
+- Fine-tuned **Qwen3 LLM** for repo-aware bug detection & test generation  
+- Built **COBOL → Documentation** pipeline using ANTLR (90% manual effort reduced)  
+- Designed **token-prioritized chunking pipelines** for large repositories  
+- Trained & evaluated models using **CUDA + HuggingFace**
 
-#### **Technology Consultant — ASU (Nov 2023–Nov 2024)**  
-- Built Python automation tools & supported AV/IT systems   
+### **AI Strategy Intern — Persistent Systems, India (May–Aug 2024)**
+- Designed **40-parameter GenAI Maturity Framework** for enterprise AI readiness  
 
-#### **AI Strategy Intern — Persistent Systems, India (May–Aug 2024)**  
-- Created **40-parameter GenAI Maturity Framework** for enterprise evaluation  
+### **Technology Consultant — Arizona State University (Nov 2023–Nov 2024)**
+- Built Python automation tools & supported AV/IT systems  
 
-#### **🏆 Startup Village Hackathon Winner (ASU)**  
-- Won **Best Use Case of Supermemory AI**  
-- Built an innovative prototype demonstrating real GenAI memory workflows  
+### 🏆 **Startup Village Hackathon Winner**
+- Best Use Case of Supermemory AI  
+- Built a GenAI memory-powered prototype for long-context reasoning  
 
 ---
 
-### 🚀 Featured Projects  
+## 🚀 Other Projects
 
-#### 🏏 **Cricket Match Win Predictor**  
+#### 🏏 **Cricket Match Win Predictor**
 🔗 https://github.com/AadiPathak23/Cricket-Win-Predictor  
-- Random Forest ML model trained on **10,000+ matches**  
-- **85% accuracy** with venue/toss/live-match features (120+ grounds)  
-- Interactive **Streamlit UI** with real-time probability updates  
+- Random Forest model on **10,000+ matches**
+- **85% accuracy** using venue, toss & live-match features
+- Streamlit-based interactive UI
 
-#### ✍️ **Poem-Like Text Generator (LSTM)**  
+#### ✍️ **Poem Generator (LSTM)**
 🔗 https://github.com/AadiPathak23/Poem-generator  
-- LSTM model trained on **500K+ Shakespeare characters**  
-- With creativity sliders & NLP preprocessing  
+- LSTM trained on **500K+ Shakespeare characters**
+- Creativity controls & NLP preprocessing
 
-#### 💼 **SwipeJobs — AI Job Application Assistant**  
+#### 💼 **SwipeJobs — AI Job Application Assistant**
 🔗 https://github.com/AadiPathak23/SwipeJobs-  
-- AI-powered job application concept  
-- Resume parsing, job matching, swipe-based UX  
-
-#### 🧪 **Summer Internship 2025 — AI/ML**  
-🔗 https://github.com/AadiPathak23/Summer-Internship-2025  
-- Notes, architecture docs, and experiments from Qwen3 + LoRA work  
-
-#### 🧠 **Supermemory AI Hackathon Project**  
-🔗 https://github.com/AadiPathak23/Asclepius-HI  
-- Winner of **Best Use Case** category  
-- Built GenAI memory-powered prototype for long-context applications  
+- Resume parsing, job matching & swipe-based UX concept
 
 ---
 
-### 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AadiPathak23&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -123,7 +129,7 @@
 
 ---
 
-### 🌐 Connect With Me  
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aadipathak/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin"/></a>
   <a href="mailto:apatha29@asu.edu"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -132,5 +138,4 @@
 
 ---
 
-⚡ *“Engineering AI for real-world impact while smashing boundaries on and off the cricket field.”*
-
+⚡ *Engineering real-world GenAI systems — and competing at the highest level on and off the cricket field.*
