@@ -99,7 +99,7 @@ Most RAG demos fail on real repositories because semantic search alone misses ex
 - 🛠️ **Hack the Stack — Y Combinator, SF HQ (Feb 2026)** — Participant; built and demoed a rapid prototype under YC-style time constraints  
 - 🎟️ **NVIDIA GTC 2026 (March)** — Attended NVIDIA's GPU Technology Conference  
 - 📜 **NVIDIA DLI Certified** — "Adding New Knowledge to LLMs"  
-- 🏏 **President, ASU Cricket Club** — led the team to two regional titles & a national quarterfinal, growing the community to 400+ members  
+- 🏏 **Former President, ASU Cricket Club** — led the team to two regional titles & a national quarterfinal, and grew the community to 400+ members  
 
 ---
 
@@ -135,6 +135,19 @@ Most RAG demos fail on real repositories because semantic search alone misses ex
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AadiPathak23&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadiPathak23&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" width="41%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AadiPathak23&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aadipathak/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin"/></a>
@@ -144,5 +157,7 @@ Most RAG demos fail on real repositories because semantic search alone misses ex
 </p>
 
 ---
+
+⚡ *Engineering real-world GenAI systems — and competing at the highest level on and off the cricket field.*
 
 ⚡ *Engineering real-world GenAI systems — and competing at the highest level on and off the cricket field.*
