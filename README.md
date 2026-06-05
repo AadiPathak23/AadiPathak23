@@ -91,9 +91,15 @@ Most RAG demos fail on real repositories because semantic search alone misses ex
 ### **Technology Consultant — Arizona State University (Nov 2023–Nov 2024)**
 - Built Python automation tools & supported AV/IT systems  
 
-### 🏆 **Startup Village Hackathon Winner**
-- Best Use Case of Supermemory AI  
-- Built a GenAI memory-powered prototype for long-context reasoning  
+---
+
+## 🏆 Activities & Highlights
+
+- 🥇 **Startup Village Hackathon Winner (ASU, 2025)** — Best Use Case of Supermemory AI; built a GenAI memory-powered prototype for long-context reasoning  
+- 🛠️ **Hack the Stack — Y Combinator, SF HQ (Feb 2026)** — Participant; built and demoed a rapid prototype under YC-style time constraints  
+- 🎟️ **NVIDIA GTC 2026 (March)** — Attended NVIDIA's GPU Technology Conference  
+- 📜 **NVIDIA DLI Certified** — "Adding New Knowledge to LLMs"  
+- 🏏 **President, ASU Cricket Club** — led the team to two regional titles & a national quarterfinal, growing the community to 400+ members  
 
 ---
 
@@ -126,23 +132,6 @@ Most RAG demos fail on real repositories because semantic search alone misses ex
 - Single-user Telegram bot for **weight & macro tracking** with 7-day moving-average charts
 - Weekly progress reports & scheduled reminders; self-hosted, zero paid services
 - **Python · python-telegram-bot · SQLite · matplotlib**
-
----
-
-## 📊 GitHub Analytics
-
-<!-- Note: if these don't render, it's usually the hosted stats service being rate-limited, not the markdown.
-     The count_private flag was removed as it often breaks public rendering. If issues persist,
-     consider deploying your own instance of github-readme-stats. -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AadiPathak23&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadiPathak23&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" width="41%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AadiPathak23&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
 
 ---
 
