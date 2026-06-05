@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+the+Making;GenAI+%26+LLM+Systems+Builder;Robotics+%26+Applied+ML+Enthusiast;National-Level+Cricketer+🏏" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;LLM+Fine-tuning+%26+RAG+Systems;Agentic+AI+Builder;National-Level+Cricketer+🏏" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
 
 ## 👋 About Me
 
-- 🎓 **Senior @ Arizona State University** — B.S. Computer Science (2026)  
-- 🚀 Applying for **MS in Computer Science (AI/ML focus) — Fall 2026**  
-- 🤖 Strong focus on **LLMs, GenAI systems, RAG architectures, and applied ML**  
-- 🧠 Hands-on experience with **Qwen3 LLM, LoRA fine-tuning, HuggingFace, CUDA, GPU optimization**  
+- 🎓 **Graduated from Arizona State University** — B.S. Computer Science (May 2026)  
+- 🚀 **Incoming MS in Computer Science (AI/ML focus) @ UC Davis — Fall 2026**  
+- 🤖 Strong focus on **LLMs, RAG architectures, agentic AI, and applied ML**  
+- 🧠 Hands-on with **Qwen3, LoRA/PEFT fine-tuning, HuggingFace, CUDA, GPU optimization**  
 - 🏆 **Startup Village Hackathon Winner** — Best Use Case of Supermemory AI  
 - 🏏 **President, ASU Cricket Club** & **National-Level Cricketer**  
 - ✨ I build **AI systems that scale and ship**, not just demos  
@@ -68,11 +68,11 @@ Most RAG demos fail on real repositories because semantic search alone misses ex
 </p>
 
 **AI / ML & Systems Expertise**
-- LLM fine-tuning (LoRA, Qwen, Transformers)
+- LLM fine-tuning (LoRA/PEFT, Qwen, Transformers)
 - Token-aware chunking & priority pipelines
 - RAG system design (retrieval, grounding, evaluation)
 - CUDA, NVIDIA-SMI, GPU memory optimization
-- Dataset creation & benchmarking
+- Dataset creation & benchmarking (ROUGE, BERTScore)
 - ANTLR-based parsing pipelines
 
 ---
@@ -99,10 +99,21 @@ Most RAG demos fail on real repositories because semantic search alone misses ex
 
 ## 🚀 Other Projects
 
+#### 🤖 **Jaarvis — AI News Agent**
+🔗 https://github.com/AadiPathak23/Jaarvis-Personal-assistant  
+- FastAPI agent that scrapes & ingests AI news from Hacker News into a **deduplicated SQLite store**
+- Exposed via a minimal API; backend foundation for a personal AI assistant
+- **Python · FastAPI · SQLite · Alembic**
+
+#### ⚙️ **finetune-agent — Automated LLM Fine-Tuning & Evaluation**
+🔗 https://github.com/AadiPathak23/finetune-agent  
+- End-to-end pipeline generating instruction datasets & orchestrating **LoRA training**
+- Dataset validation, quality filtering, and reproducible **ROUGE/BERTScore** benchmarking
+
 #### 🏏 **Cricket Match Win Predictor**
 🔗 https://github.com/AadiPathak23/Cricket-Win-Predictor  
-- Random Forest model on **10,000+ matches**
-- **85% accuracy** using venue, toss & live-match features
+- Random Forest model on **10,000+ ODI matches**
+- **~85% accuracy** using venue, toss & live-match features
 - Streamlit-based interactive UI
 
 #### ✍️ **Poem Generator (LSTM)**
@@ -110,21 +121,27 @@ Most RAG demos fail on real repositories because semantic search alone misses ex
 - LSTM trained on **500K+ Shakespeare characters**
 - Creativity controls & NLP preprocessing
 
-#### 💼 **SwipeJobs — AI Job Application Assistant**
-🔗 https://github.com/AadiPathak23/SwipeJobs-  
-- Resume parsing, job matching & swipe-based UX concept
+#### 🩺 **Health Bot — Telegram Health Tracker**
+🔗 https://github.com/AadiPathak23/Health-Bot-  
+- Single-user Telegram bot for **weight & macro tracking** with 7-day moving-average charts
+- Weekly progress reports & scheduled reminders; self-hosted, zero paid services
+- **Python · python-telegram-bot · SQLite · matplotlib**
 
 ---
 
 ## 📊 GitHub Analytics
 
+<!-- Note: if these don't render, it's usually the hosted stats service being rate-limited, not the markdown.
+     The count_private flag was removed as it often breaks public rendering. If issues persist,
+     consider deploying your own instance of github-readme-stats. -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AadiPathak23&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AadiPathak23&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadiPathak23&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" width="41%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AadiPathak23&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=AadiPathak23&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 ---
@@ -134,6 +151,7 @@ Most RAG demos fail on real repositories because semantic search alone misses ex
   <a href="https://www.linkedin.com/in/aadipathak/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin"/></a>
   <a href="mailto:apatha29@asu.edu"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/AadiPathak23"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.aadipathak.com"><img src="https://img.shields.io/badge/-Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
