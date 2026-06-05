@@ -22,7 +22,7 @@
 - 🤖 Strong focus on **LLMs, RAG architectures, agentic AI, and applied ML**  
 - 🧠 Hands-on with **Qwen3, LoRA/PEFT fine-tuning, HuggingFace, CUDA, GPU optimization**  
 - 🏆 **Startup Village Hackathon Winner** — Best Use Case of Supermemory AI  
-- 🏏 **President, ASU Cricket Club** & **National-Level Cricketer**  
+- 🏏 **Former President, ASU Cricket Club** & **National-Level Cricketer**  
 - ✨ I build **AI systems that scale and ship**, not just demos  
 
 ---
@@ -157,7 +157,5 @@ Most RAG demos fail on real repositories because semantic search alone misses ex
 </p>
 
 ---
-
-⚡ *Engineering real-world GenAI systems — and competing at the highest level on and off the cricket field.*
 
 ⚡ *Engineering real-world GenAI systems — and competing at the highest level on and off the cricket field.*
