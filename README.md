@@ -3,49 +3,86 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;LLM+Fine-tuning+%26+RAG+Systems;Agentic+AI+Builder;National-Level+Cricketer+🏏" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=750&lines=MS+CS+(AI%2FML)+%40+UC+Davis;Fine-tuning+%26+Evaluating+VLMs;Edge+Inference+on+6+GB+GPUs;Physical+AI+Safety;Cricket+Club+President+🏏" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%2300C7B7.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-%23FF6F00.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Robotics-%2376B900.svg?&style=for-the-badge&logo=ROS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vision--Language%20Models-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PEFT%20%7C%20QLoRA%20%7C%20DoRA-%23FF6F00.svg?&style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Physical%20AI-%2300C7B7.svg?&style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cricket-%23FF4500.svg?&style=for-the-badge&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://www.aadipathak.com"><img src="https://img.shields.io/badge/-Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aadipathak/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin"/></a>
+  <a href="mailto:aadipathak2323@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 👋 About Me
 
-- 🎓 **Graduated from Arizona State University** — B.S. Computer Science (May 2026)  
-- 🚀 **Incoming MS in Computer Science (AI/ML focus) @ UC Davis — Fall 2026**  
-- 🤖 Strong focus on **LLMs, RAG architectures, agentic AI, and applied ML**  
-- 🧠 Hands-on with **Qwen3, LoRA/PEFT fine-tuning, HuggingFace, CUDA, GPU optimization**  
-- 🏆 **Startup Village Hackathon Winner** — Best Use Case of Supermemory AI  
-- 🏏 **Former President, ASU Cricket Club** & **National-Level Cricketer**  
-- ✨ I build **AI systems that scale and ship**, not just demos  
+MS Computer Science (AI/ML) student at **UC Davis**. I fine-tune, evaluate and serve **vision-language models for physical AI**, and I care a lot about evaluation that doesn't fool itself: freeze the protocol before the results exist, compare against a strong baseline, and publish the limitations next to the numbers.
+
+- 🎓 **M.S. CS (AI/ML) @ UC Davis** (2026–present) · B.S. CS @ Arizona State University (2026)
+- 🔬 **Graduate Researcher, [CHPS Lab](https://cphslab.com) (Prof. Zhaodan Kong):** student lead on a drone RGB + thermal computer-vision project supporting wildlife health monitoring
+- 🛡️ Working on **post-deployment safety for physical AI** (private for now)
+- 🧠 Hands-on with **QLoRA / DoRA / LoRA, Hugging Face, bitsandbytes, CUDA, FastAPI, Docker, AWS**
 
 ---
 
-## 🚀 Featured Flagship Project
+## 🚀 Selected Work
 
-### 🔍 **Atlas RAG — Multimodal RAG System for PDFs & Code**
-🔗 **Repo:** https://github.com/AadiPathak23/Atlas-RAG  
+### 🪶 [featherweight-ai](https://github.com/AadiPathak23/featherweight-ai): budget-matched PEFT for an edge VLM
+QLoRA, DoRA and LoRA on NVIDIA **Cosmos-Reason2-2B**, compared at equal wall-clock time and peak VRAM on free-tier hardware (6 GB laptop GPU, Kaggle T4).
+- 📈 QLoRA under a 60-minute budget on a 6 GB GPU: **47.2% vs 31.9%** zero-shot on a held-out night split (n = 659). That is **+15.3 pp over a per-question-type prior**, with McNemar p = 6.5e-9 and a scene-clustered bootstrap 95% CI of 9.7 to 21.0 pp.
+- 🕵️ Found that **235 of 241 training images also appeared in the evaluation split** (byte-identical) before any training step, and rebuilt the benchmark as a leak-free day-to-night domain-shift evaluation.
+- 🧯 Built an fp16 instability tripwire that halts on consecutive gradient-scaler skips, and validated it with a deliberate sabotage run.
+- ⏳ *In progress:* the LoRA vs DoRA vs QLoRA comparison, seed variance, and edge latency/VRAM.
 
-**Production-style RAG system designed for real codebases, not toy demos.**
+### ⚡ [cosmos-edge-serve](https://github.com/AadiPathak23/cosmos-edge-serve): serving a reasoning VLM on small GPUs
+FastAPI + Docker inference service for Cosmos-Reason2-2B (image or video plus a prompt in, reasoning plus answer out). It runs 4-bit NF4 so it fits on 6 GB.
+- ✅ Verified end to end on real weights, with 35 tests passing.
+- 📊 A k6 load-test harness and EC2 T4 runbook are written and dry-run. No T4 numbers are published until they're actually measured.
 
-**Why it matters:**  
-Most RAG demos fail on real repositories because semantic search alone misses exact identifiers and configs. Atlas RAG fixes this using **hybrid retrieval + local-first LLMs**.
+### ⚗️ [distillery](https://github.com/AadiPathak23/distillery): self-verifying fine-tuning datasets
+A multi-agent pipeline (planner → generator → critic → evaluator) that builds LLM fine-tuning datasets.
+- 🧪 For code data it **executes the generated pytest tests in a sandbox and rejects the ones that fail**, instead of trusting the model.
+- 🚫 It refuses to write empty or fully filtered datasets, and logs full telemetry for every run. CI on GitHub Actions.
 
-**Key highlights:**
-- 📄 PDF + 💻 Code ingestion with **page & line-level citations**
-- 🔀 **Hybrid retrieval (Semantic + TF-IDF)** for exact symbol matching
-- 🦙 **Local LLM via Ollama** (zero-cost, no API dependency)
-- 💾 Persistent **ChromaDB vector store**
-- 🔄 Incremental indexing with hash-based change detection
-- 🧪 Developer debug tools to inspect retrieval scores
+### 🎙️ [Jaarvis](https://github.com/AadiPathak23/Jaarvis-Personal-assistant): local voice assistant for AI news
+A fully local assistant with wake word (openWakeWord), speech-to-text (Whisper), streaming TTS (Piper), Hacker News AI-news ingestion and ranking, a FastAPI backend, a React dashboard and a Telegram bot.
 
-> This project mirrors how **real-world GenAI systems** are architected.
+### 🔍 [Atlas RAG](https://github.com/AadiPathak23/Atlas-RAG): RAG over PDFs and code
+Hybrid semantic + TF-IDF retrieval so exact identifiers aren't missed, page and line-level citations, local LLM via Ollama, ChromaDB, and incremental re-indexing.
+
+**🧩 Smaller projects:** [🏏 Cricket Win Predictor](https://github.com/AadiPathak23/Cricket-Win-Predictor) ([live demo](https://cricketwinpredictor.streamlit.app/)) · [🩺 Health Bot](https://github.com/AadiPathak23/Health-Bot-) · [✍️ LSTM Poem Generator](https://github.com/AadiPathak23/Poem-generator)
+
+---
+
+## 💼 Experience
+
+### **AI/ML Intern, Persistent Systems, Santa Clara (May–Sep 2025)**
+- Fine-tuned **Qwen3** for repo-aware bug detection and test generation
+- Built an ANTLR-based **COBOL → documentation** pipeline
+- Designed **token-prioritized chunking** pipelines for large codebases
+
+### **AI Strategy Intern, Persistent Systems, India (May–Aug 2024)**
+- Designed a **40-parameter GenAI maturity framework** for enterprise AI readiness
+
+### **Technology Consultant, Arizona State University (Nov 2023–Nov 2024)**
+- Built Python automation tools and supported AV/IT systems
+
+---
+
+## 🏆 Recognition & Community
+
+- 🥇 **Winner, Startup Village Hackathon** (ASU, 2025): Best Use Case of Supermemory AI
+- 🧑‍⚖️ **Mentor & Judge, Sac Hacks** (Davis, Nov 2026)
+- 🛠️ **Hack the Stack at Y Combinator**, SF HQ (Feb 2026)
+- 🎟️ **NVIDIA GTC 2026** attendee · 📜 **NVIDIA DLI certified:** *Adding New Knowledge to LLMs*
+- 🏏 **Former President, ASU Cricket Club:** two regional titles, a national quarterfinal, and a community of 400+ members
 
 ---
 
@@ -53,85 +90,21 @@ Most RAG demos fail on real repositories because semantic search alone misses ex
 
 ### 🖥️ Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,html,css,js,ts,matlab,mysql" width="500"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,mysql" width="300"/>
 </p>
 
-### ⚡ Frameworks & Libraries
+### 🤖 ML & Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,dotnet,express,flask,fastapi,pytorch,tensorflow,scikitlearn,pandas" width="600"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" width="180"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 </p>
 
-### 🛠️ Tools, DevOps & Design
+### ⚙️ Systems & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,mongodb,postgresql,git,github,vercel,figma" width="520"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" title="Jira"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,react,sqlite,postgres,git,github,linux" width="520"/>
 </p>
-
-**AI / ML & Systems Expertise**
-- LLM fine-tuning (LoRA/PEFT, Qwen, Transformers)
-- Token-aware chunking & priority pipelines
-- RAG system design (retrieval, grounding, evaluation)
-- CUDA, NVIDIA-SMI, GPU memory optimization
-- Dataset creation & benchmarking (ROUGE, BERTScore)
-- ANTLR-based parsing pipelines
-
----
-
-## 💼 Experience
-
-### **AI/ML Intern — Persistent Systems, Santa Clara (May–Sep 2025)**
-- Fine-tuned **Qwen3 LLM** for repo-aware bug detection & test generation  
-- Built **COBOL → Documentation** pipeline using ANTLR (90% manual effort reduced)  
-- Designed **token-prioritized chunking pipelines** for large repositories  
-- Trained & evaluated models using **CUDA + HuggingFace**
-
-### **AI Strategy Intern — Persistent Systems, India (May–Aug 2024)**
-- Designed **40-parameter GenAI Maturity Framework** for enterprise AI readiness  
-
-### **Technology Consultant — Arizona State University (Nov 2023–Nov 2024)**
-- Built Python automation tools & supported AV/IT systems  
-
----
-
-## 🏆 Activities & Highlights
-
-- 🥇 **Startup Village Hackathon Winner (ASU, 2025)** — Best Use Case of Supermemory AI; built a GenAI memory-powered prototype for long-context reasoning  
-- 🛠️ **Hack the Stack — Y Combinator, SF HQ (Feb 2026)** — Participant; built and demoed a rapid prototype under YC-style time constraints  
-- 🎟️ **NVIDIA GTC 2026 (March)** — Attended NVIDIA's GPU Technology Conference  
-- 📜 **NVIDIA DLI Certified** — "Adding New Knowledge to LLMs"  
-- 🏏 **Former President, ASU Cricket Club** — led the team to two regional titles & a national quarterfinal, and grew the community to 400+ members  
-
----
-
-## 🚀 Other Projects
-
-#### 🤖 **Jaarvis — AI News Agent**
-🔗 https://github.com/AadiPathak23/Jaarvis-Personal-assistant  
-- FastAPI agent that scrapes & ingests AI news from Hacker News into a **deduplicated SQLite store**
-- Exposed via a minimal API; backend foundation for a personal AI assistant
-- **Python · FastAPI · SQLite · Alembic**
-
-#### ⚙️ **finetune-agent — Automated LLM Fine-Tuning & Evaluation**
-🔗 https://github.com/AadiPathak23/finetune-agent  
-- End-to-end pipeline generating instruction datasets & orchestrating **LoRA training**
-- Dataset validation, quality filtering, and reproducible **ROUGE/BERTScore** benchmarking
-
-#### 🏏 **Cricket Match Win Predictor**
-🔗 https://github.com/AadiPathak23/Cricket-Win-Predictor  
-- Random Forest model on **10,000+ ODI matches**
-- **~85% accuracy** using venue, toss & live-match features
-- Streamlit-based interactive UI
-
-#### ✍️ **Poem Generator (LSTM)**
-🔗 https://github.com/AadiPathak23/Poem-generator  
-- LSTM trained on **500K+ Shakespeare characters**
-- Creativity controls & NLP preprocessing
-
-#### 🩺 **Health Bot — Telegram Health Tracker**
-🔗 https://github.com/AadiPathak23/Health-Bot-  
-- Single-user Telegram bot for **weight & macro tracking** with 7-day moving-average charts
-- Weekly progress reports & scheduled reminders; self-hosted, zero paid services
-- **Python · python-telegram-bot · SQLite · matplotlib**
 
 ---
 
@@ -148,14 +121,4 @@ Most RAG demos fail on real repositories because semantic search alone misses ex
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/aadipathak/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin"/></a>
-  <a href="mailto:apatha29@asu.edu"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/AadiPathak23"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.aadipathak.com"><img src="https://img.shields.io/badge/-Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
-
-⚡ *Engineering real-world GenAI systems — and competing at the highest level on and off the cricket field.*
+<p align="center">⚡ <i>Fine-tune it, measure it honestly, ship it, on and off the cricket field.</i> 🏏</p>
