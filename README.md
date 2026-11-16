@@ -63,6 +63,10 @@ Hybrid semantic + TF-IDF retrieval so exact identifiers aren't missed, page and 
 
 ## 💼 Experience
 
+### **Graduate Researcher, [CHPS Lab](https://cphslab.com), UC Davis (Oct 2026–present)**
+- Student lead on a drone **RGB + thermal computer-vision** project supporting wildlife health monitoring, advised by Prof. Zhaodan Kong
+- Comparing RGB-only, thermal-only and fused models on a leak-free train/test split
+
 ### **AI/ML Intern, Persistent Systems, Santa Clara (May–Sep 2025)**
 - Fine-tuned **Qwen3** for repo-aware bug detection and test generation
 - Built an ANTLR-based **COBOL → documentation** pipeline
