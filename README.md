@@ -26,7 +26,7 @@
 MS Computer Science (AI/ML) student at **UC Davis**. I fine-tune, evaluate and serve **vision-language models for physical AI**, and I care a lot about evaluation that doesn't fool itself: freeze the protocol before the results exist, compare against a strong baseline, and publish the limitations next to the numbers.
 
 - 🎓 **M.S. CS (AI/ML) @ UC Davis** (2026–present) · B.S. CS @ Arizona State University (2026)
-- 🔬 **Graduate Researcher, [CHPS Lab](https://cphslab.com) (Prof. Zhaodan Kong):** student lead on a drone RGB + thermal computer-vision project supporting wildlife health monitoring
+- 🔬 **Graduate Researcher @ [CHPS Lab](https://cphslab.com), UC Davis:** drone computer vision for wildlife health
 - 🛡️ Working on **post-deployment safety for physical AI** (private for now)
 - 🧠 Hands-on with **QLoRA / DoRA / LoRA, Hugging Face, bitsandbytes, CUDA, FastAPI, Docker, AWS**
 
@@ -94,20 +94,34 @@ Hybrid semantic + TF-IDF retrieval so exact identifiers aren't missed, page and 
 
 ### 🖥️ Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,mysql" width="300"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,ts,js,matlab,mysql&perline=8" />
 </p>
 
-### 🤖 ML & Data
+### 🤖 AI / ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" width="180"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 </p>
 
-### ⚙️ Systems & Tools
+### 🗄️ Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,react,sqlite,postgres,git,github,linux" width="520"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,postgres,mongodb,sqlite&perline=5" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode,postman,vercel&perline=8" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ANTLR-E13D3D?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
